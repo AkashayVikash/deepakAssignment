@@ -1,4 +1,6 @@
-package net.javaguides.springboot.helloworldapp.bean;
+package com.deepak.tradingSystem.bean;
+
+import javax.persistence.*;
 
 public class AuthenticationBean {
 

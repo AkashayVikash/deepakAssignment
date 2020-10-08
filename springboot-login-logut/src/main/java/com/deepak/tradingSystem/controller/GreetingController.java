@@ -1,4 +1,4 @@
-package net.javaguides.springboot.helloworldapp.controller;
+package com.deepak.tradingSystem.controller;
 
 import java.util.concurrent.atomic.AtomicLong;
 
@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import net.javaguides.springboot.helloworldapp.bean.Greeting;
+import com.deepak.tradingSystem.bean.Greeting;
 
 @CrossOrigin(origins = "http://localhost:4200")
 @RestController

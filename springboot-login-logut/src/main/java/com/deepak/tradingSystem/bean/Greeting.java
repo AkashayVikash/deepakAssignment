@@ -1,4 +1,4 @@
-package net.javaguides.springboot.helloworldapp.bean;
+package com.deepak.tradingSystem.bean;
 
 public class Greeting {
 	private final long id;

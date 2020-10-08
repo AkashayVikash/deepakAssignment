@@ -1,11 +1,11 @@
-package net.javaguides.springboot.helloworldapp.controller;
+package com.deepak.tradingSystem.controller;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import net.javaguides.springboot.helloworldapp.bean.AuthenticationBean;
+import com.deepak.tradingSystem.bean.AuthenticationBean;
 
 @CrossOrigin(origins="http://localhost:4200")
 @RestController
